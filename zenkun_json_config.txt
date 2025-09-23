@@ -1,6 +1,7 @@
 {
   "API_KEY": "AIzaSyA_C97sohOy0afHORN0e950_GAb3_SHVLA",
-  "DEFAULT_API_KEY": "AIzaSyA_C97sohOy0afHORN0e950_GAb3_SHVLA",
+  "DEFAULT_API_KEY": "0AIzaSyA_C97sohOy0afHORN0e950_GAb3_SHVLA",
   "DEFAULT_MODEL_NAME": "gemini-2.5-flash-lite"
 }
+
 
